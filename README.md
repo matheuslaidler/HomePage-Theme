@@ -1,4 +1,8 @@
-# Welcome Home and Language Selection - Project Front-End
+# Welcome Home and Language Selection
+
+### Project Front-End
+
+Projeto da época de fórum com meu projeto road2tech em forumbrasil. Editado para repositório free to use.
 
 ![image](https://github.com/matheuslaidler/HomePage-Theme/assets/76860503/27be3f9e-34cc-44b9-84ca-9f64b472e321)
 
